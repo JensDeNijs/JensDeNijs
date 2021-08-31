@@ -1,8 +1,11 @@
-### Hello there 👋, I'm Jens
+### Hello there 👋, I'm Jens!
 
-- 🔭 I’m currently looking for an internship as a Full Stack Web Developer
-- 🌱 I’m trying to learn more about JavaScript frameworks like Angular/React and also Symfony or any other interesting language I come across
+
+- 🔭 I’m currently looking for an internship as a Full Stack Web Developer.
+- 🌱 I’m trying to learn more about JavaScript frameworks like Angular/React and also Symfony or any other interesting language I come across.
 - 📫 How to reach me: jensdenijs@hotmail.com
+- ⚡ More info about me you'll find on my [CV](https://github.com/JensDeNijs/JensDeNijs/files/7084366/CV_Junior_Webdev_JensDeNijs.pdf).
+
 <!--
 **JensDeNijs/JensDeNijs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
